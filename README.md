@@ -5,7 +5,7 @@
 <table width="1000px">
   <tr>
     <td>
-      <img src=" style="backgroundColor: blue">
+      <img src="imagen1.png" style="backgroundColor: blue">
     </td>
   </tr>
 </table>
