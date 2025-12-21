@@ -3,7 +3,7 @@
 
 <table width="100%">
         <tr>
-            <td width="25%" height="25%"><img src="./images/valencia.svg" width="100%"></td>
+            <td width="25%" height="25%"><img src="./images/albufera.svg" width="100%" title="albufera" alt="imagen de Valencia"></td>
             <td width="25%" height="25%"><img src="./images/valencia.svg" width="100%"></td>
             <td width="25%" height="25%"><img src="./images/valencia.svg" width="100%"></td>
             <td width="25%" height="25%"><img src="./images/valencia.svg" width="100%"></td>
