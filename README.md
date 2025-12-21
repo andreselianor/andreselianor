@@ -13,8 +13,8 @@
             <td width="25%" height="25%" colspan="2"><img src="./images/valencia.svg" width="100%"></td>
         </tr>
         <tr>
-            <td width="25%" height="25%"><img src="./images/murcia.svg" width="100%"></td>
-            <td width="25%" height="25%"><img src="./images/cardiff.svg" width="100%"></td>
+            <td width="25%" height="25%"><img src="./images/murcia.svg" width="100%" title="murcia" alt="imagen de Murcia"></td>
+            <td width="25%" height="25%"><img src="./images/cardiff.svg" width="100%" title="cardiff" alt="imagen de Cardiff"></td>
             <td width="25%" height="25%" colspan="2" rowspan="3"><img src="./images/ny.svg" width="100%"></td>
         </tr>
         <tr>
