@@ -1,5 +1,4 @@
-## Yves Andres Elianor
-## Ciudades del Mundo y Código Fuente
+## Yves Andres Elianor · Ciudades del Mundo y Código Fuente
 
 <table width="100%">
         <tr>
