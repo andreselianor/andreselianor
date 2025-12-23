@@ -1,4 +1,5 @@
-## Yves Andres Elianor · Ciudades del Mundo y Código Fuente
+# Yves Andres Elianor
+## Ciudades del Mundo y Perfil GitHub
 
 <table width="100%">
         <tr>
@@ -28,3 +29,32 @@
             </td>
         </tr>
     </table>
+
+## 🧑‍💻 About Me
+Soy un desarrollador apasionado por la tecnología y el aprendizaje continuo.  
+Me gusta trabajar tanto en backend como en frontend, creando aplicaciones limpias, mantenibles y bien documentadas.  
+Actualmente estoy enfocado en mejorar mis habilidades y construir proyectos personales que me permitan crecer como profesional.
+
+---
+
+## 🛠️ Current Stack
+Estas son algunas de las tecnologías con las que trabajo actualmente:
+
+- **Lenguajes:** Java, JavaScript  
+- **Backend:** Spring Boot, Hibernate  
+- **Frontend:** HTML, CSS, JavaScript, React 
+- **Bases de datos:** PostgreSQL  
+- **Herramientas:** Git, GitHub, pgAdmin, Visual Studio, IntelliJ IDEA  
+
+---
+
+## 📫 Contact
+Puedes encontrarme o contactar conmigo en:
+
+- 📧 Email: andreselianor@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/andreselianor 
+- 🌐 Portfolio: https://andreselianor.com 
+
+---
+
+## 📊 GitHub Stats (Optional)
