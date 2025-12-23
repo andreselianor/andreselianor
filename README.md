@@ -4,8 +4,8 @@
         <tr>
             <td width="25%" height="25%"><img src="./images/albufera.svg" width="100%" title="albufera" alt="imagen de Valencia"></td>
             <td width="25%" height="25%"><img src="./images/salinas.svg" width="100%"></td>
-            <td width="25%" height="25%"><img src="./images/dunas" width="100%"></td>
-            <td width="25%" height="25%"><img src="./images/barancos" width="100%"></td>
+            <td width="25%" height="25%"><img src="./images/dunas.svg" width="100%"></td>
+            <td width="25%" height="25%"><img src="./images/barancos.svg" width="100%"></td>
         </tr>
         <tr>
             <td width="25%" height="25%" colspan="2"><img src="./images/valencia.svg" width="100%" title="valencia" alt="imagen de Valencia"></td>
