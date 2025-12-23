@@ -15,7 +15,7 @@
         <tr>
             <td width="25%" height="25%"><img src="./images/murcia.svg" width="100%" title="murcia" alt="imagen de Murcia"></td>
             <td width="25%" height="25%"><img src="./images/cardiff.svg" width="100%" title="cardiff" alt="imagen de Cardiff"></td>
-            <td width="25%" height="25%" rowspan="2"><img src="./images/cardiff.svg" width="100%" title="cardiff" alt="imagen de Cardiff"></td>
+            <td width="25%" height="25%" rowspan="2" colspan="2"><img src="./images/cardiff.svg" width="100%" title="cardiff" alt="imagen de Cardiff"></td>
         </tr>
         <tr>
             <td width="25%" height="25%" colspan="2"><img src="./images/howl.svg" width="100%"></td>
