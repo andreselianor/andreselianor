@@ -18,13 +18,15 @@
             <td width="25%" height="25%" colspan="2"><img src="./images/berlin.svg" width="100%" title="murcia" alt="imagen de Murcia"></td>
                 <!--<td width="25%" height="25%" colspan="2"><img src="./images/berlin.svg" width="100%" title="berlin" alt="imagen de Berlin"></td>-->
         </tr>
-        <tr>            
+        <tr> 
+        <td>               
             <p><i>Gracias a mi formación Full-Stack, puedo trabajar en tareas propias del backend, con Java y Springboot, y a la vez desarrollar interfaces gráficas
                     con React o Thymeleaf. Todo ello complementado con persistencia de datos en bases PostgreSQL y MSQL gracias al servicio en la nube de Supabase.
                     Por supuesto trabajo usando metodologías 'AGILE' y aplicaciones que gestionan el control de version GIT.
             </i>i></p>
+        </td> 
             <td width="25%" height="25%"><img src="./images/cardiff.svg" width="100%" title="cardiff" alt="imagen de Cardiff"></td>
-            <td width="25%" height="30%" rowspan="3" colspan="2"><img src="./images/ny.svg" width="100%" title="new york" alt="imagen de Nueva York"></td>
+            <td width="25%" height="30%" rowspan="3" colspan="2"><img src="./images/ny.svg" width="100%" title="new york" alt="imagen de Nueva York"></td>             
         </tr>
         <tr>
             <td width="25%" height="25%" colspan="2"><img src="./images/howl.svg" width="100%" title="howl" alt="imagen del castillo Howl"></td>
