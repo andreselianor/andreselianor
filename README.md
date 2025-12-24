@@ -20,7 +20,7 @@
         </tr>
         <tr> 
         <td width="25%" height="25%">               
-            <p><i>Gracias a mi formación Full-Stack, puedo trabajar con Java y Springboot para las secciones de back-end, y React o Thymeleaf para la parte de cliente. Uso sistemas de persistencia de datos basadas en PostgreSQL, trabajo con control de version GIT y                         metodologías 'AGILE' para optimizar resultados profesionales en equipos grandes.
+            <p><i>Gracias a mi formación Full-Stack, puedo trabajar con Java y Springboot para las secciones de back-end, y React o Thymeleaf para la parte de cliente. El soporte de las aplicaciones funciona gracias a bases de datos PostgreSQL, control de versiones GIT                         y metodologías 'AGILE'.
             </i></p>
         </td> 
             <td width="25%" height="25%"><img src="./images/cardiff.svg" width="100%" title="cardiff" alt="imagen de Cardiff"></td>
@@ -39,7 +39,7 @@
         </tr>
         <tr>
             <td width="100%" colspan="4">
-            <p align="center">Puedes contactar conmigo a través de  mi correo electrónico o de mis redes sociales></p>
+            <p align="center">Puedes contactar conmigo a través de  mi correo electrónico o de mis redes sociales</p>
             <p align="center">andreselianor@gmail.com        ·        https://www.linkedin.com/in/andreselianor        ·        https://andreselianor.com</p>
             </td>
         </tr>
