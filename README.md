@@ -19,10 +19,10 @@
                 <!--<td width="25%" height="25%" colspan="2"><img src="./images/berlin.svg" width="100%" title="berlin" alt="imagen de Berlin"></td>-->
         </tr>
         <tr> 
-        <td>               
+        <td width="25%" height="25%">               
             <p><i>Gracias a mi formación Full-Stack, puedo trabajar en tareas propias del backend, con Java y Springboot, y a la vez desarrollar interfaces gráficas
-                    con React o Thymeleaf. Todo ello complementado con persistencia de datos en bases PostgreSQL y MSQL gracias al servicio en la nube de Supabase.
-                    Por supuesto trabajo usando metodologías 'AGILE' y aplicaciones que gestionan el control de version GIT.
+                    con React o Thymeleaf. Todo ello mediante uso de bases de datos basadas en PostgreSQL.
+                    Trabajo usando metodologías 'AGILE' y aplicaciones que gestionan control de version GIT.
             </i>i></p>
         </td> 
             <td width="25%" height="25%"><img src="./images/cardiff.svg" width="100%" title="cardiff" alt="imagen de Cardiff"></td>
@@ -40,7 +40,7 @@
             </td>
         </tr>
         <tr>
-            <td>
+            <td width="100%" colspan="4">
             <p>Puedes contactar conmigo a través de  mi correo electrónico o de mis redes sociales></p>
             <p>andreselianor@gmail.com        ·        https://www.linkedin.com/in/andreselianor        ·        https://andreselianor.com</p>
             </td>
