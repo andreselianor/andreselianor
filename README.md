@@ -7,18 +7,22 @@
             <td width="25%" height="25%"><img src="./images/salinas.svg" width="100%" title="salinas" alt="imagen de Torrevieja"></td>
             <td width="25%" height="25%"><img src="./images/dunas.svg" width="100%" title="dunas" alt="imagen de Guardamar"></td>
             <td width="25%" height="25%">
-                    <p>Soy un desarrollador apasionado por las ciudades y el free urban code.
+                    <p><i>Soy un desarrollador apasionado por las ciudades y el free urban code.
                         Me gusta trabajar tanto en backend como en frontend, creando aplicaciones limpias, mantenibles y bien documentadas.
-                    </p>
+                    </i>i></p>
                     <!--<img src="./images/barrancos.svg" width="100%" title="barranco" alt="imagen de Alcoy">-->
             </td>
         </tr>
         <tr>
             <td width="25%" height="25%" colspan="2"><img src="./images/valencia.svg" width="100%" title="valencia" alt="imagen de Valencia"></td>
-            <td width="25%" height="25%" colspan="2"><img src="./images/berlin.svg" width="100%" title="berlin" alt="imagen de Berlin"></td>
+            <td width="25%" height="25%" colspan="2"><img src="./images/berlin.svg" width="100%" title="murcia" alt="imagen de Murcia"></td>
+                <!--<td width="25%" height="25%" colspan="2"><img src="./images/berlin.svg" width="100%" title="berlin" alt="imagen de Berlin"></td>-->
         </tr>
-        <tr>
-            <td width="25%" height="25%"><img src="./images/murcia.svg" width="100%" title="murcia" alt="imagen de Murcia"></td>
+        <tr>            
+            <p><i>Gracias a mi formación Full-Stack, puedo trabajar en tareas propias del backend, con Java y Springboot, y a la vez desarrollar interfaces gráficas
+                    con React o Thymeleaf. Todo ello complementado con persistencia de datos en bases PostgreSQL y MSQL gracias al servicio en la nube de Supabase.
+                    Por supuesto trabajo usando metodologías 'AGILE' y aplicaciones que gestionan el control de version GIT.
+            </i>i></p>
             <td width="25%" height="25%"><img src="./images/cardiff.svg" width="100%" title="cardiff" alt="imagen de Cardiff"></td>
             <td width="25%" height="30%" rowspan="3" colspan="2"><img src="./images/ny.svg" width="100%" title="new york" alt="imagen de Nueva York"></td>
         </tr>
@@ -32,6 +36,10 @@
             <td width="100%" colspan="4">
                 <img src="./images/albacete.svg" width="100%" title="albacete" alt="imagen de Aalbacete">
             </td>
+        </tr>
+        <tr>
+            <p>Puedes contactar conmigo a través de  mi correo electrónico o de mis redes sociales</p>
+            <p>andreselianor@gmail.com        ·        https://www.linkedin.com/in/andreselianor        ·        https://andreselianor.com</p>
         </tr>
     </table>
 
