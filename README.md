@@ -1,5 +1,5 @@
 # Yves Andres Elianor
-## Ciudades del Mundo y Perfil GitHub
+## Github Global Planning Code
 
 <table width="100%">
         <tr>
@@ -9,7 +9,7 @@
             <td width="25%" height="25%">
                     <p><i>Soy un desarrollador apasionado por las ciudades y el free urban code.
                         Me gusta trabajar tanto en backend como en frontend, creando aplicaciones limpias, mantenibles y bien documentadas.
-                    </i>i></p>
+                    </i></p>
                     <!--<img src="./images/barrancos.svg" width="100%" title="barranco" alt="imagen de Alcoy">-->
             </td>
         </tr>
@@ -38,8 +38,10 @@
             </td>
         </tr>
         <tr>
-            <p>Puedes contactar conmigo a través de  mi correo electrónico o de mis redes sociales</p>
+            <td>
+            <p>Puedes contactar conmigo a través de  mi correo electrónico o de mis redes sociales></p>
             <p>andreselianor@gmail.com        ·        https://www.linkedin.com/in/andreselianor        ·        https://andreselianor.com</p>
+            </td>
         </tr>
     </table>
 
