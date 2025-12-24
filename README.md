@@ -20,7 +20,7 @@
         </tr>
         <tr> 
         <td width="25%" height="25%">               
-            <p><i>Gracias a mi formación Full-Stack, puedo trabajar con Java y Springboot para las secciones de back-end, y React o Thymeleaf para la parte de cliente. El soporte de las aplicaciones funciona gracias a bases de datos PostgreSQL, control de versiones GIT                         y metodologías 'AGILE'.
+            <p><i>Puedo trabajar con <b>Java y Springboot</b> para las secciones de back-end, y <b>React o Thymeleaf</b>para la parte de cliente. El soporte de las aplicaciones funciona gracias a bases de datos <b>PostgreSQL</b>, control de versiones <b>GIT</b>                         y metodologías <b>'AGILE'</b>.
             </i></p>
         </td> 
             <td width="25%" height="25%"><img src="./images/cardiff.svg" width="100%" title="cardiff" alt="imagen de Cardiff"></td>
