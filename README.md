@@ -40,7 +40,7 @@
         <tr>
             <td width="100%" colspan="4">
             <p align="center">Puedes <b>contactar</b> conmigo a través de  mi correo electrónico o de mis redes sociales</p>
-            <p align="center">andreselianor@gmail.com&emsp;·&emsp;https://www.linkedin.com/in/andreselianor&emsp;·&emsp;www.andreselianor.com</p>
+            <p align="center">andreselianor@gmail.com&emsp; · &emsp;https://www.linkedin.com/in/andreselianor&emsp; · &emsp;https://www.andreselianor.com</p>
             </td>
         </tr>
     </table>
