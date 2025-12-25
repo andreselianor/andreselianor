@@ -7,9 +7,9 @@
             <td width="25%" height="25%"><img src="./images/salinas.svg" width="100%" title="salinas" alt="imagen de Torrevieja"></td>
             <td width="25%" height="25%"><img src="./images/dunas.svg" width="100%" title="dunas" alt="imagen de Guardamar"></td>
             <td width="25%" height="25%">
-                    <p><i>Soy un desarrollador apasionado por las ciudades y el free urban code.
+                    <p><i><small>Soy un desarrollador apasionado por las ciudades y el free urban code.
                         Me gusta trabajar tanto en backend como en frontend, creando aplicaciones limpias, mantenibles y bien documentadas.
-                    </i></p>
+                    </small></i></p>
                     <!--<img src="./images/barrancos.svg" width="100%" title="barranco" alt="imagen de Alcoy">-->
             </td>
         </tr>
