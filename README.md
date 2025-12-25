@@ -7,8 +7,8 @@
             <td width="25%" height="25%"><img src="./images/salinas.svg" width="100%" title="salinas" alt="imagen de Torrevieja"></td>
             <td width="25%" height="25%"><img src="./images/dunas.svg" width="100%" title="dunas" alt="imagen de Guardamar"></td>
             <td width="25%" height="25%">
-                    <p><i><small>Soy un desarrollador apasionado por las ciudades y el free urban code.
-                        Me gusta trabajar tanto en backend como en frontend, creando aplicaciones limpias, mantenibles y bien documentadas.
+                    <p><i><small>Soy un desarrollador apasionado por las ciudades que sigue la filosofía de <b>'clean code / iterable solutions'</b>.
+                        Me gusta trabajar a título de full-stack, creando aplicaciones limpias, mantenibles y bien documentadas.
                     </small></i></p>
                     <!--<img src="./images/barrancos.svg" width="100%" title="barranco" alt="imagen de Alcoy">-->
             </td>
@@ -20,7 +20,7 @@
         </tr>
         <tr> 
         <td width="25%" height="25%">               
-            <p><i>Puedo trabajar con <b>Java y Springboot</b> para las secciones de back-end, y <b>React o Thymeleaf</b>para la parte de cliente. El soporte de las aplicaciones funciona gracias a bases de datos <b>PostgreSQL</b>, control de versiones <b>GIT</b>                         y metodologías <b>'AGILE'</b>.
+            <p><i><small>Puedo trabajar con <b>Java y Springboot</b> para las secciones de back-end, y <b>React o Thymeleaf</b> para la parte de cliente. El soporte de las aplicaciones se realiza con <b>PostgreSQL</b>, control de versiones <b>GIT</b>                                 y metodologías <b>'AGILE'</b></small>.
             </i></p>
         </td> 
             <td width="25%" height="25%"><img src="./images/cardiff.svg" width="100%" title="cardiff" alt="imagen de Cardiff"></td>
@@ -39,8 +39,8 @@
         </tr>
         <tr>
             <td width="100%" colspan="4">
-            <p align="center">Puedes contactar conmigo a través de  mi correo electrónico o de mis redes sociales</p>
-            <p align="center">andreselianor@gmail.com        ·        https://www.linkedin.com/in/andreselianor        ·        https://andreselianor.com</p>
+            <p align="center">Puedes <b>contactar</b> conmigo a través de  mi correo electrónico o de mis redes sociales</p>
+            <p align="center">andreselianor@gmail.com&emsp;·&emsp;https://www.linkedin.com/in/andreselianor&emsp;·&emsp;https://andreselianor.com</p>
             </td>
         </tr>
     </table>
