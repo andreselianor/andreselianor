@@ -58,15 +58,19 @@ Gracias a la oferta especializada de cursos online en desarrollo 'full stack' qu
 ## 🚀 Featured Projects
 Algunos proyectos que reflejan mis habilidades técnicas y mi enfoque en buenas prácticas de desarrollo:
 
-- **Project Name**  
-  Aplicación backend desarrollada con **Java y Spring Boot**, enfocada en la creación de APIs REST escalables.  
-  - Arquitectura en capas, CRUD completo y persistencia con PostgreSQL.  
-  - 🔗 Repository | 🌐 Demo (opcional)
+**Harry Potter Api**  
+  Aplicación Web que muestra la información que se recoge a través de la API pública de Harry Potter.
+  - Recogida de información a través de **JSON y JAVASCRIPT**. Diseño de página web con **HTML y CSS.**
+  - 🔗 Repository:
+  - https://github.com/andreselianor/apiHarryPotter  
+  - 🌐 Images:
 
-- **Project Name**  
-  Aplicación full-stack con **Spring Boot y React**, orientada a la gestión de datos y consumo de APIs.  
-  - Integración frontend-backend, manejo de estado y buenas prácticas de código.  
-  - 🔗 Repository | 🌐 Demo (opcional)
+**Agencia Vértice Travel**  
+  Aplicación full-stack con **HTML y Javascript**, diseño de una página web para desarrollo profesional de una agencia de viajes.  
+  - Trabajo de prototipos con Figma, **desarrollo front-end con HTML, CSS Y JAVASCRIPT.**  
+  - 🔗 Repository:
+  - https://github.com/andreselianor/AgenciaGrupo4
+  - 🌐 Images:
  
 ---
 
