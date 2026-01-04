@@ -46,9 +46,12 @@
     </table>
 
 ## 🧑‍💻 About Me
-Soy un desarrollador apasionado por la tecnología y el aprendizaje continuo.  
-Me gusta trabajar tanto en backend como en frontend, creando aplicaciones limpias, mantenibles y bien documentadas.  
-Actualmente estoy enfocado en mejorar mis habilidades y construir proyectos personales que me permitan crecer como profesional.
+Soy un desarrollador apasionado por la tecnología y el aprendizaje continuo. Me gusta trabajar tanto en **backend como en frontend**, creando aplicaciones limpias, mantenibles y bien documentadas.  
+Actualmente, estoy enfocado en mejorar mis habilidades y realizar todo tipo de formación online que me permita crecer como profesional.
+
+Me especializo en el desarrollo backend con Java y Spring Boot, aplicando buenas prácticas de diseño, trabajo la metodología 'agile' en grupos de trabajo de múltiples desarrolladores y **una mentalidad orientada a la calidad del código**. A su vez, tengo experiencia en el desarrollo frontend moderno, creando interfaces claras y funcionales que priorizan la experiencia del usuario.
+
+Gracias a la oferta especializada de cursos online en desarrollo 'full stack' que he realizado en el último año, me siento totalmente preparado para fortalecer mis habilidades técnicas, profundizar en arquitecturas modernas y **construir proyectos profesionales que reflejen mi compromiso con el aprendizaje continuo**.
 
 ---
 
