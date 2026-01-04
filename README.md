@@ -56,22 +56,38 @@ Gracias a la oferta especializada de cursos online en desarrollo 'full stack' qu
 ---
 
 ## 🛠️ Current Stack
-Estas son algunas de las tecnologías con las que trabajo actualmente:
+Tecnologías y herramientas con las que trabajo habitualmente, enfocadas en el desarrollo de aplicaciones modernas, mantenibles y escalables:
 
-- **Lenguajes:** Java, JavaScript  
-- **Backend:** Spring Boot, Hibernate  
-- **Frontend:** HTML, CSS, JavaScript, React 
-- **Bases de datos:** PostgreSQL  
-- **Herramientas:** Git, GitHub, pgAdmin, Visual Studio, IntelliJ IDEA  
+**Lenguajes de programación**
+- Java (principal)
+- JavaScript
+
+**Backend**
+- Spring Boot (REST APIs, arquitectura en capas)
+- Hibernate / JPA (ORM, modelado de datos)
+
+**Frontend**
+- HTML5, CSS3
+- JavaScript (ES6+)
+- React (componentes, manejo de estado, consumo de APIs)
+
+**Bases de datos**
+- PostgreSQL (diseño relacional, consultas y optimización básica)
+
+**Herramientas y entorno de trabajo**
+- Git & GitHub (control de versiones, flujo colaborativo)
+- IntelliJ IDEA, Visual Studio Code
+- pgAdmin
 
 ---
 
 ## 📫 Contact
-Puedes encontrarme o contactar conmigo en:
+Estoy abierto a oportunidades laborales, colaboraciones y proyectos relacionados con el desarrollo de software.  
+Puedes contactarme a través de los siguientes canales:
 
-- 📧 Email: andreselianor@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/andreselianor 
-- 🌐 Portfolio: https://andreselianor.com 
+- 📧 **Email:** andreselianor@gmail.com  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/andreselianor  
+- 🌐 **Portfolio:** https://andreselianor.com
 
 ---
 
