@@ -55,29 +55,59 @@ Gracias a la oferta especializada de cursos online en desarrollo 'full stack' qu
 
 ---
 
+## 🚀 Featured Projects
+Algunos proyectos que reflejan mis habilidades técnicas y mi enfoque en buenas prácticas de desarrollo:
+
+- **Project Name**  
+  Aplicación backend desarrollada con **Java y Spring Boot**, enfocada en la creación de APIs REST escalables.  
+  - Arquitectura en capas, CRUD completo y persistencia con PostgreSQL.  
+  - 🔗 Repository | 🌐 Demo (opcional)
+
+- **Project Name**  
+  Aplicación full-stack con **Spring Boot y React**, orientada a la gestión de datos y consumo de APIs.  
+  - Integración frontend-backend, manejo de estado y buenas prácticas de código.  
+  - 🔗 Repository | 🌐 Demo (opcional)
+ 
+---
+
 ## 🛠️ Current Stack
 Tecnologías y herramientas con las que trabajo habitualmente, enfocadas en el desarrollo de aplicaciones modernas, mantenibles y escalables:
 
 **Lenguajes de programación**
-- Java (principal)
-- JavaScript
+- Java (principal).
+- JavaScript.
 
 **Backend**
-- Spring Boot (REST APIs, arquitectura en capas)
-- Hibernate / JPA (ORM, modelado de datos)
+- Spring Boot (REST APIs, arquitectura en capas).
+- Hibernate / JPA (ORM, modelado de datos).
 
 **Frontend**
-- HTML5, CSS3
-- JavaScript (ES6+)
-- React (componentes, manejo de estado, consumo de APIs)
+- HTML5, CSS3.
+- JavaScript (ES6+).
+- React (componentes, manejo de estado, consumo de APIs).
 
 **Bases de datos**
-- PostgreSQL (diseño relacional, consultas y optimización básica)
+- PostgreSQL (diseño relacional, consultas y optimización básica).
 
 **Herramientas y entorno de trabajo**
-- Git & GitHub (control de versiones, flujo colaborativo)
-- IntelliJ IDEA, Visual Studio Code
-- pgAdmin
+- Git & GitHub (control de versiones, flujo colaborativo).
+- IntelliJ IDEA, Visual Studio Code.
+- pgAdmin.
+
+---
+
+## 🧠 Key Skills
+- Desarrollo de APIs REST con Spring Boot. 
+- Diseño y modelado de bases de datos relacionales.
+- Aplicación de principios **Clean Code** y **AGILE**  
+- Integración backend–frontend.
+- Control de versiones con Git y trabajo colaborativo. 
+- Resolución de problemas y aprendizaje continuo.
+
+---
+
+## 🎯 What I’m Looking For
+Estoy en búsqueda de oportunidades como **Java Backend Developer** o **Full Stack Developer**, donde pueda aportar mis conocimientos, seguir fortaleciendo mis habilidades técnicas y crecer profesionalmente dentro de un equipo orientado a la calidad y buenas prácticas de desarrollo.
 
 ---
 
@@ -91,4 +121,3 @@ Puedes contactarme a través de los siguientes canales:
 
 ---
 
-## 📊 GitHub Stats (Optional)
